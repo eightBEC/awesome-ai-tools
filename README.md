@@ -37,6 +37,7 @@
 
 Stay up-to-date with the latest AI news, research, and insights through curated newsletters and blogs.
 
+- **AI Weekly** — Expert-ranked models, agents, research, and policy: <https://aiweekly.co/>
 - **Phil Schmid** - Latest in AI, practical hands-on tutorials <https://www.philschmid.de/>
 - **The Batch (DeepLearning.AI)** — Weekly AI news and insights: <https://www.deeplearning.ai/the-batch/>
 - **Import AI** — Weekly AI newsletter by Jack Clark: <https://importai.substack.com>
