@@ -161,6 +161,7 @@ Open standards and protocols enabling communication and interoperability between
 
 Reusable skills, tools, and Model Context Protocol (MCP) servers that extend agent capabilities with specialized functions and integrations.
 
+- **Agent QA** — Source-available MCP tools for natural-language web and mobile application testing: <https://github.com/vostride/agent-qa>
 - **Awesome MCP Servers** - A curated list of MCP servers: <https://github.com/appcypher/awesome-mcp-servers>
 - **Anthropic Skills** - Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks: <https://github.com/anthropics/skills>
 - **FastMCP** - Pythonic way to build MCP servers and clients: <https://github.com/jlowin/fastmcp>
