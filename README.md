@@ -124,6 +124,7 @@ Frameworks for building autonomous AI agents that can plan, reason, and execute 
 - **Google Vertex Agent Builder** - Google's Agent Builder: <https://cloud.google.com/blog/products/ai-machine-learning/more-ways-to-build-and-scale-ai-agents-with-vertex-ai-agent-builder?hl=en>
 - **LangGraph** — Agent graphs for LLMs: <https://langchain-ai.github.io/langgraph/>
 - **OpenAI Agents** — Agent Framework: <https://platform.openai.com/docs/guides/agents>
+- **Solgrok** — Autonomous 24/7 Solana creator-ops agent for promoting, fee-claiming, and sweeping creator rewards.: <https://github.com/LMajster/sgrok>
 - **watsonx Orchestrate** — Orchestration with watsonx.ai + enterprise tools: <https://www.ibm.com/products/watsonx-orchestrate>
 
 ---
