@@ -178,6 +178,7 @@ Tools for observing, evaluating, testing, and monitoring AI agents and ML models
 - **Deepchecks** — Testing ML models and data: <https://deepchecks.com>
 - **DeepEval** - LLM Evaluation Framework: <https://github.com/confident-ai/deepeval>
 - **Evidently AI** — Monitoring & data drift detection: <https://www.evidentlyai.com>
+- **Flowlines** — MCP analytics and agent monitoring with user journeys and session evidence: <https://flowlines.ai/docs>
 - **Giskard** — LLM & ML testing framework: <https://giskard.ai>
 - **Kubeflow** — Kubernetes ML pipelines: <https://www.kubeflow.org>
 - **Langfuse** - LLM Observability, metrics, evals, prompt management, playground, datasets: <https://github.com/langfuse/langfuse>
