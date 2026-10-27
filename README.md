@@ -182,6 +182,7 @@ Tools for observing, evaluating, testing, and monitoring AI agents and ML models
 - **Kubeflow** — Kubernetes ML pipelines: <https://www.kubeflow.org>
 - **Langfuse** - LLM Observability, metrics, evals, prompt management, playground, datasets: <https://github.com/langfuse/langfuse>
 - **MLflow** — Experiment tracking & model registry: <https://mlflow.org>
+- **NovaSynth** — Commercial freemium voice agent testing with AI callers and regression evaluations: <https://noveum.ai/en/novasynth>
 - **Opik** - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows: <https://github.com/comet-ml/opik>
 - **Phoenix (Arize)** — Open-source eval & tracing: <https://github.com/Arize-ai/phoenix>
 - **Weights & Biases (W&B)** — Experiment tracking and collaboration: <https://wandb.ai>
