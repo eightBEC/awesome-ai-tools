@@ -40,6 +40,7 @@ Stay up-to-date with the latest AI news, research, and insights through curated 
 - **Phil Schmid** - Latest in AI, practical hands-on tutorials <https://www.philschmid.de/>
 - **The Batch (DeepLearning.AI)** — Weekly AI news and insights: <https://www.deeplearning.ai/the-batch/>
 - **Import AI** — Weekly AI newsletter by Jack Clark: <https://importai.substack.com>
+- **AIHOT Weekly** — Chinese-language roundup of AI model releases, research, and industry developments: <https://aihot.news/weekly>
 - **AlphaSignal** — 5-min email summary of latest news: <https://alphasignal.ai/>
 - **Papers with Code** — Latest ML research with code: <https://paperswithcode.com>
 - **Towards Data Science** — Medium publication on data science and AI: <https://towardsdatascience.com>
